@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my project. I made a change.
+=======
+This is my project. I also made a change.
+>>>>>>> I changed stuff locally
